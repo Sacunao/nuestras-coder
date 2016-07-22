@@ -1,5 +1,24 @@
-.coders{
-	display: inline-block;
-	position: relative;
+.contenedor{
+	width: 800px;
+	margin: 10px 10px;
+} 
+.sub{
+	width: 80px;
+	border: 2px solid black;
 }
-
+.img{
+	position: relative;
+	width: 211px;
+	display: inline-block;
+	left: 10px;
+}
+.name{
+	position: absolute;
+	color: white;
+	bottom: 5px;
+	right: 5px;
+}
+img{
+	-webkit-filter: brightness(50%);
+    filter: brightness(40%);
+}
