@@ -11,14 +11,13 @@
 	width: 211px;
 	display: inline-block;
 	left: 10px;
+	-webkit-filter: brightness(70%);
+    filter: 
+    brightness(40%);
 }
 .name{
 	position: absolute;
 	color: white;
 	bottom: 5px;
 	right: 5px;
-}
-img{
-	-webkit-filter: brightness(50%);
-    filter: brightness(40%);
 }
